@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background-image: linear-gradient(90deg, #FE6B8B 30%, #FF8E53 90%);
+  display:inline-block;
+  width: 100vw;
+  height:100vh;
+  animation:spin 1s linear infinite
+}
+
+#description {
+  margin-bottom: 20px;
+}
+
+.suggestion {
+  margin-bottom: 20px;
+}
+
+
+/* @keyframes spin{
+	from{transform:rotate(0deg)}
+	to{transform:rotate(360deg)}	
+} */
